@@ -55,9 +55,6 @@ body {
   -webkit-box-align: end;
       -ms-flex-align: end;
           align-items: flex-end;
-  -webkit-box-pack: end;
-      -ms-flex-pack: end;
-          justify-content: flex-end;
   -ms-flex-pack: distribute;
       justify-content: space-around;
   -webkit-box-orient: vertical;
@@ -69,7 +66,7 @@ body {
   word-break: break-all;
 }
 
-.output .preious-operand {
+.output .previous-operand {
   color: #cad2c5;
   opacity: 90%;
   font-size: 1.3rem;

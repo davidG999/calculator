@@ -1,1 +1,1 @@
-# My second calculator 
+# Calculator w/ pure JS 

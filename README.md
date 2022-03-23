@@ -1,8 +1,7 @@
 # Calculator
 
-## Screenshots 👀
-![Calculating](https://user-images.githubusercontent.com/85896378/153438987-4dff15ac-b60d-43cb-9ba0-90f2e6cb307e.png)
-![Result](https://user-images.githubusercontent.com/85896378/153439129-2d610525-1e68-4c01-8238-b6ddc80bbd32.png)
+## Preview 👀
+![Calculator preview](https://user-images.githubusercontent.com/85896378/159692525-e4e9de41-d0dc-4a55-8cc6-71ab6cbb18ae.gif)
 
 ### [Try it out yourself 🧮](https://davidg999.github.io/calculator/)
 
